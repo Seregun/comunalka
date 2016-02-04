@@ -1,0 +1,50 @@
+.btn-success {
+    background-color: #222;
+    border: none;
+    text-align: center;
+   
+    
+}
+
+.btn-success:hover {
+    background-color: #999;
+    border: none;
+
+}
+
+.btn-success:focus {
+    background-color: #999;
+    border: none;
+
+}
+.btn-success:active {
+    background-color: #999;
+    border: none;
+    
+}
+
+.p {
+text-align-last: center;
+}
+.jumbotron {
+    background-color: white;
+    background-image: url(../images/fin2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: none;
+    padding-top: 250px;
+    padding-bottom: 250px;
+   
+}
+.container .jumbotron {
+    padding-right: 80px;
+    padding-left: 80px;
+    border: none;
+
+}
+.ooo {
+    text-align: center;
+    border: none;
+}
+
+
